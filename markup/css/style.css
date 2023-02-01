@@ -1,0 +1,43 @@
+#title {
+    color: green;
+}
+
+hr {
+    color: indigo;
+}
+
+ul li {
+    color: rgb(0, 128, 107);
+}
+
+.name {
+    color: midnightblue;
+}
+
+.class1.class2 {
+    color: red;
+}
+
+.c2 {
+    color: blue;
+}
+
+.c3 {
+    color:darkslategray;
+}
+
+.c4 {
+    color: red;
+}
+
+.title {
+    color: black;
+}
+
+#p1 {
+    color:brown;
+}
+
+#p2 {
+    color: rgb(41, 149, 11);
+}
